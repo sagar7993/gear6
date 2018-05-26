@@ -1,0 +1,131 @@
+/*Media - 992ViewPort */
+@media only screen and (min-width : 992px) {
+
+/*Common Starts*/
+
+.map{
+  margin-top: 32px;
+}
+
+
+/*Common Ends*/
+
+}
+/*Media - 992ViewPort */
+/*Media - 992ViewPort */
+@media only screen and (max-width : 992px) {
+
+/*Common Starts*/
+
+.center{
+  width: 90%;
+}
+
+.right-dot-margin1{
+  border : 0 !important;
+}
+
+
+/*Common Ends*/
+
+}
+/*Media - 992ViewPort */
+
+/*Media - 600ViewPort */
+@media only screen and (max-width : 600px) {
+
+/*Landing Page Starts*/
+
+.no-row{
+  margin-bottom: 0px !important;
+}
+
+.right-dot-margin{
+  border : 0 !important;
+}
+
+.parallax-container {
+  height: 700px;
+}
+
+.flat-modal{
+  min-width: 100%;
+}
+
+.vlogin-wrapper,.vregister-wrapper{
+  width: 100%;
+}
+
+.or-divider{
+    border-right: 0;
+    border-top: 1px solid #d7d7d7;
+    text-align: center;
+    font-size: 12px;
+    margin: 10px auto;
+    height: 1px;
+    width: 60%;
+    display: none;
+}
+
+.social-margin,.social-margin-signup{
+  margin-top: 0;
+}
+
+.signup-text, .signup-textg {
+  width: 70%;
+}
+
+.modal{
+  max-height: 90%;
+}
+
+/*Landing Page Ends*/
+
+
+}
+/*Media - 600ViewPort */
+
+/*Media - 420ViewPort */
+@media only screen and (max-width : 420px) {
+
+/*Common Starts*/
+
+.center{
+  width: 100%;
+}
+
+.map-text{
+  margin-top: 0px;
+}
+
+
+/*Common Ends*/
+
+/*Landing Page Starts*/
+
+.caption-header{
+  font-size : 12px !important;
+}
+
+.signup-text, .signup-textg {
+  width: 60%;
+}
+
+/*Landing Page Ends*/
+
+}
+/*Media - 420ViewPort */
+
+/*Media - 355ViewPort */
+@media only screen and (max-width : 355px) {
+
+/*Common Starts*/
+
+.sx{
+  width: 100% !important;
+}
+
+
+/*Common Ends*/
+/*Media - 355ViewPort */
+

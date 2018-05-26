@@ -1,0 +1,75 @@
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 20px!important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+	margin-top: -4px!important;
+}
+.select2-container{
+  border-radius: 0;
+  width: 100% !important;
+  border: 1px solid #d7d7d7;
+  text-align: center;
+  outline: none;
+  height: 3rem;
+  font-size: 1.4rem;
+  margin: 0 0 15px 0;
+  padding: 0;
+  box-shadow: none;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  transition: all .3s; 
+}
+span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open {
+  border: 1px solid #d7d7d7 !important;
+}
+.select2-container--default .select2-selection--single {
+   border-radius: 0;
+  height: 40px;
+  padding: 5px;
+  border: 0;
+  background-color: transparent;
+}
+.select2-container--default .cityCombo .select2-selection__placeholder {
+  color: #028cbc !important;
+}
+.cityCombo{
+  padding-bottom: 40px !important;
+  background-color: #fff !important;
+  width: 100.5%;
+}
+.select2-container--open{
+  border-bottom: 0 !important;
+  border-top: 0 !important;
+  border-left: 0 !important;
+}
+.select2-container--focus {
+  border: 1px solid #028cbc !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+  border-color: #b8ced0 transparent transparent transparent;
+  border-width: 10px 6px 0 6px;
+  margin-left: -10px;
+  margin-top: 1px;
+}
+.select2-container--default .select2-results > .select2-results__options {
+  border-top: 1px solid #14a8ad;
+}
+.select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b {
+  border-color: transparent transparent #b8ced0 transparent;
+  border-width: 0 6px 10px 6px;
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected]{
+    background: #028cbc;
+    color: #fff;
+}
+.select2-dropdown {
+  border-radius: 0px;
+}
+.select2-container--focus {
+  border-bottom: 1px solid #028cbc;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  color: #444;
+  line-height: 35px;
+}

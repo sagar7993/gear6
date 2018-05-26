@@ -1,0 +1,40 @@
+
+.ui-accordion-header {  }
+.ui-state-active{
+    background: #009688 !important;
+  padding: 8px !important;
+  margin: 5px 15px 5px 15px !important;
+  color: #333333 !important;
+  font-size: 15px !important;
+}
+.ui-state-default{
+    background: #009688 !important;
+  padding: 12px !important;
+  padding-left: 31px !important;
+  margin: 5px 15px 0px 15px !important;
+  color: #fff !important;
+  font-size: 15px !important;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+ border: none !important;
+background: url("") ;
+}
+* :focus{
+  outline: 0px !important;
+}
+.ui-icon{
+
+}
+.ui-widget-content{
+  background-image: none !important;
+}
+.ui-state-focus{
+  border: none !important;
+}
+
+.ui-accordion .ui-accordion-header .ui-accordion-header-icon {
+position: absolute;
+left: 1em !important;
+top: 50%;
+margin-top: -8px;
+}

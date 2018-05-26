@@ -1,0 +1,11 @@
+<script type="text/javascript" src="<?php echo site_url('js/jquery-2.1.3.min.js'); ?>"></script>
+<script type="text/javascript" src="<?php echo site_url('js/jquery-ui.min.js'); ?>"></script>
+<script type="text/javascript" src="<?php echo site_url('js/select2.full.min.js'); ?>"></script>
+<script type="text/javascript" src="<?php echo site_url('js/bootstrap.min.js'); ?>"></script>
+<script type="text/javascript" src="<?php echo site_url('js/jquery.dataTables.js'); ?>"></script>
+<script type="text/javascript" src="<?php echo site_url('js/dataTables.bootstrap.js'); ?>"></script>
+<script type="text/javascript" src="<?php echo site_url('js/vendor.js'); ?>"></script>
+<script type="text/javascript" src="<?php echo site_url('js/materialize.js'); ?>"></script>
+<script type="text/javascript" src="<?php echo site_url('js/vnotify.js'); ?>"></script>
+<script type="text/javascript" src="<?php echo site_url('js/icheck.js'); ?>"></script>
+<script type="text/javascript" src="<?php echo site_url('js/jquery.knob.js'); ?>"></script>

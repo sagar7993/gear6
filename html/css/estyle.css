@@ -1,0 +1,124 @@
+
+.elogin-body{
+	background: #d7d7d7;
+}
+
+.elogin-main{
+	position: absolute;
+	top: 50px;
+}
+
+.elogin-box{
+	background: #028cbc;
+}
+
+.login-btn{
+	background: #2c2c2c !important ;
+    height: 40px;
+}
+
+.login-inpt{
+	border-top: 0 !important;
+	border-left: 0 !important;
+	border-right: 0 !important;
+}
+
+.width100{
+	width: 100%; 
+}
+
+@media only screen and (min-width : 768px) {
+.bcenter{
+	margin: 0px auto;
+	width: 35%;
+}
+
+.tcenter{
+	margin: 0px auto;
+	width: 75%;
+}
+
+}
+
+input[type=text]:focus,input[type=text]:focus:not([readonly]),input[type=password]:focus,input[type=password]:focus:not([readonly]) {
+	border-bottom: 2px solid #fff!important;
+}
+
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px #028cbc inset !important;
+    -webkit-text-fill-color: #fff !important;
+}
+
+input:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0px 1000px #028cbc inset !important;
+    color: #fff !important;
+}
+
+.marginb-zero{
+	margin-bottom: 0 !important;
+}
+
+.padb-zero{
+	padding-bottom: 0 !important;
+}
+
+nav {
+    background-color: #028cbc;
+}
+
+nav .nav-wrapper i {
+    height: 56px;
+    line-height: 64px;
+    float: left;
+    margin-right: 15px;
+}
+
+.brand-logo {
+    top: 10%;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+.height100{
+	height: 100%;
+}
+
+img.responsive-img{
+	max-height: 100%;
+}
+
+tr:hover {
+	background: #f6f6f5;
+	cursor: pointer;
+}
+
+tr {
+	background: rgb(251, 252, 253);
+}
+
+table.bordered tr {
+    border-bottom: 1px solid #028cbc;
+}
+
+table.tbordered tr {
+    border-bottom: 1px solid #d7d7d7;
+}
+
+.selected-options{
+	color: #2c2c2c!important;
+}
+
+.selected-options2{
+	color: #2c2c2c!important;
+}
+
+.input-label{
+	color: #d7d7d7!important;
+	padding-left: 10px!important;
+}
+
+input[type=text]:focus.input-form,input[type=text]:focus:not([readonly]).input-form,input[type=password]:focus,input[type=password]:focus:not([readonly]) {
+	border-bottom: 1px solid #028cbc!important;
+}
